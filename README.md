@@ -13,3 +13,6 @@ Split your data.
 Train a model.
 
 Used data from the Olympics, which was on Kaggle.
+
+teams.csv - the team-level data that I used in this project.
+athlete_events.csv - this is the original athlete-level data
